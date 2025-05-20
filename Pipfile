@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 transformers = "*"
-torch = "==2.2.0"
-numpy = "==2.0"
+torch = "*"
+numpy = "==2.2.6"
 
 [dev-packages]
 
