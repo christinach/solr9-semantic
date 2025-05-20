@@ -4,11 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ipykernel = "*"
-jupyter = "*"
-tensorflow = "*"
 transformers = "*"
-torch = "*"
+torch = "==2.2.0"
+numpy = "==2.0"
 
 [dev-packages]
 
