@@ -1,0 +1,370 @@
+[
+  {
+    "control_info": {
+      "control_fields": {
+        "001": "99131340106706421"
+      }
+    },
+    "title_fields": [
+      {
+        "tag": "245",
+        "ind1": "0",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Aeronautics and Space Reports to the Congress, 1958-1984."
+          }
+        ]
+      },
+      {
+        "tag": "264",
+        "ind1": " ",
+        "ind2": "1",
+        "content": [
+          {
+            "code": "a",
+            "value": "Bethesda, Md. :"
+          },
+          {
+            "code": "b",
+            "value": "University Publications of America,"
+          },
+          {
+            "code": "c",
+            "value": "2012."
+          }
+        ]
+      }
+    ],
+    "notes_fields": [
+      {
+        "tag": "588",
+        "ind1": " ",
+        "ind2": " ",
+        "content": [
+          {
+            "code": "a",
+            "value": "Description based on online resource; title from PDF title page\n                (ProQuest, viewed Sept. 2012)"
+          }
+        ]
+      }
+    ],
+    "subject_fields": [
+      {
+        "tag": "650",
+        "ind1": " ",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Astronautics"
+          },
+          {
+            "code": "z",
+            "value": "United States"
+          },
+          {
+            "code": "x",
+            "value": "History"
+          },
+          {
+            "code": "v",
+            "value": "Sources."
+          }
+        ]
+      },
+      {
+        "tag": "650",
+        "ind1": " ",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Manned space flight"
+          },
+          {
+            "code": "x",
+            "value": "History"
+          },
+          {
+            "code": "v",
+            "value": "Sources."
+          }
+        ]
+      },
+      {
+        "tag": "651",
+        "ind1": " ",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Outer space"
+          },
+          {
+            "code": "x",
+            "value": "Exploration"
+          },
+          {
+            "code": "z",
+            "value": "United States."
+          }
+        ]
+      },
+      {
+        "tag": "610",
+        "ind1": "1",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "United States."
+          },
+          {
+            "code": "b",
+            "value": "National Aeronautics and Space Administration."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "control_info": {
+      "control_fields": {
+        "001": "99131340106806421"
+      }
+    },
+    "title_fields": [
+      {
+        "tag": "245",
+        "ind1": "0",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Records of President Johnson's Commission on Law Enforcement, Part 1\n                :"
+          },
+          {
+            "code": "b",
+            "value": "Commission Correspondence and Memoranda."
+          }
+        ]
+      },
+      {
+        "tag": "264",
+        "ind1": " ",
+        "ind2": "1",
+        "content": [
+          {
+            "code": "a",
+            "value": "Bethesda, Md. :"
+          },
+          {
+            "code": "b",
+            "value": "University Publications of America,"
+          },
+          {
+            "code": "c",
+            "value": "2012."
+          }
+        ]
+      }
+    ],
+    "notes_fields": [
+      {
+        "tag": "588",
+        "ind1": " ",
+        "ind2": " ",
+        "content": [
+          {
+            "code": "a",
+            "value": "Description based on online resource; title from PDF title page\n                (ProQuest, viewed Sept. 2012)"
+          }
+        ]
+      }
+    ],
+    "subject_fields": [
+      {
+        "tag": "650",
+        "ind1": " ",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Law enforcement"
+          },
+          {
+            "code": "z",
+            "value": "United States"
+          },
+          {
+            "code": "x",
+            "value": "History"
+          },
+          {
+            "code": "y",
+            "value": "20th century"
+          },
+          {
+            "code": "v",
+            "value": "Sources."
+          }
+        ]
+      },
+      {
+        "tag": "650",
+        "ind1": " ",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Crime"
+          },
+          {
+            "code": "z",
+            "value": "United States"
+          },
+          {
+            "code": "x",
+            "value": "History"
+          },
+          {
+            "code": "y",
+            "value": "20th century"
+          },
+          {
+            "code": "v",
+            "value": "Sources."
+          }
+        ]
+      },
+      {
+        "tag": "610",
+        "ind1": "1",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "United States."
+          },
+          {
+            "code": "b",
+            "value": "President's Commission on Law Enforcement and Administration of\n                Justice."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "control_info": {
+      "control_fields": {
+        "001": "99131340106906421"
+      }
+    },
+    "title_fields": [
+      {
+        "tag": "245",
+        "ind1": "0",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Associated Press, Wire Copy on the Assassinations of President John\n                F. Kennedy and Senator Robert F. Kennedy."
+          }
+        ]
+      },
+      {
+        "tag": "264",
+        "ind1": " ",
+        "ind2": "1",
+        "content": [
+          {
+            "code": "a",
+            "value": "Bethesda, Md. :"
+          },
+          {
+            "code": "b",
+            "value": "University Publications of America,"
+          },
+          {
+            "code": "c",
+            "value": "2012."
+          }
+        ]
+      }
+    ],
+    "notes_fields": [
+      {
+        "tag": "588",
+        "ind1": " ",
+        "ind2": " ",
+        "content": [
+          {
+            "code": "a",
+            "value": "Description based on online resource; title from PDF title page\n                (ProQuest, viewed Sept. 2012)"
+          }
+        ]
+      }
+    ],
+    "subject_fields": [
+      {
+        "tag": "610",
+        "ind1": "2",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Associated Press."
+          }
+        ]
+      },
+      {
+        "tag": "600",
+        "ind1": "1",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Kennedy, John F."
+          },
+          {
+            "code": "q",
+            "value": "(John Fitzgerald),"
+          },
+          {
+            "code": "d",
+            "value": "1917-1963"
+          },
+          {
+            "code": "x",
+            "value": "Assassination"
+          },
+          {
+            "code": "v",
+            "value": "Sources."
+          }
+        ]
+      },
+      {
+        "tag": "600",
+        "ind1": "1",
+        "ind2": "0",
+        "content": [
+          {
+            "code": "a",
+            "value": "Kennedy, Robert F.,"
+          },
+          {
+            "code": "d",
+            "value": "1925-1968"
+          },
+          {
+            "code": "x",
+            "value": "Assassination."
+          }
+        ]
+      }
+    ]
+  }
+]
