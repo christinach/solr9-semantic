@@ -4,9 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-transformers = "*"
-torch = "*"
-numpy = "==2.2.6"
 
 [dev-packages]
 
