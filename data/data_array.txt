@@ -1,0 +1,135 @@
+Record 1
+==================================================
+
+Control Information:
+Control Fields:
+001: 99131340106706421
+
+Title Fields (2xx):
+
+Tag 245 (Indicators: 00)
+  $a: Aeronautics and Space Reports to the Congress, 1958-1984.
+
+Tag 264 (Indicators:  1)
+  $a: Bethesda, Md. :
+  $b: University Publications of America,
+  $c: 2012.
+
+Notes Fields (5xx):
+
+Tag 588 (Indicators:   )
+  $a: Description based on online resource; title from PDF title page
+                (ProQuest, viewed Sept. 2012)
+
+Subject Fields (6xx):
+
+Tag 650 (Indicators:  0)
+  $a: Astronautics
+  $z: United States
+  $x: History
+  $v: Sources.
+
+Tag 650 (Indicators:  0)
+  $a: Manned space flight
+  $x: History
+  $v: Sources.
+
+Tag 651 (Indicators:  0)
+  $a: Outer space
+  $x: Exploration
+  $z: United States.
+
+Tag 610 (Indicators: 10)
+  $a: United States.
+  $b: National Aeronautics and Space Administration.
+
+
+Record 2
+==================================================
+
+Control Information:
+Control Fields:
+001: 99131340106806421
+
+Title Fields (2xx):
+
+Tag 245 (Indicators: 00)
+  $a: Records of President Johnson's Commission on Law Enforcement, Part 1
+                :
+  $b: Commission Correspondence and Memoranda.
+
+Tag 264 (Indicators:  1)
+  $a: Bethesda, Md. :
+  $b: University Publications of America,
+  $c: 2012.
+
+Notes Fields (5xx):
+
+Tag 588 (Indicators:   )
+  $a: Description based on online resource; title from PDF title page
+                (ProQuest, viewed Sept. 2012)
+
+Subject Fields (6xx):
+
+Tag 650 (Indicators:  0)
+  $a: Law enforcement
+  $z: United States
+  $x: History
+  $y: 20th century
+  $v: Sources.
+
+Tag 650 (Indicators:  0)
+  $a: Crime
+  $z: United States
+  $x: History
+  $y: 20th century
+  $v: Sources.
+
+Tag 610 (Indicators: 10)
+  $a: United States.
+  $b: President's Commission on Law Enforcement and Administration of
+                Justice.
+
+
+Record 3
+==================================================
+
+Control Information:
+Control Fields:
+001: 99131340106906421
+
+Title Fields (2xx):
+
+Tag 245 (Indicators: 00)
+  $a: Associated Press, Wire Copy on the Assassinations of President John
+                F. Kennedy and Senator Robert F. Kennedy.
+
+Tag 264 (Indicators:  1)
+  $a: Bethesda, Md. :
+  $b: University Publications of America,
+  $c: 2012.
+
+Notes Fields (5xx):
+
+Tag 588 (Indicators:   )
+  $a: Description based on online resource; title from PDF title page
+                (ProQuest, viewed Sept. 2012)
+
+Subject Fields (6xx):
+
+Tag 610 (Indicators: 20)
+  $a: Associated Press.
+
+Tag 600 (Indicators: 10)
+  $a: Kennedy, John F.
+  $q: (John Fitzgerald),
+  $d: 1917-1963
+  $x: Assassination
+  $v: Sources.
+
+Tag 600 (Indicators: 10)
+  $a: Kennedy, Robert F.,
+  $d: 1925-1968
+  $x: Assassination.
+
+
