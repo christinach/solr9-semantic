@@ -63,7 +63,7 @@ def save_values_to_file(records: List[str],
         json.dump(records, jf, indent=2, ensure_ascii=False)
 
 if __name__ == "__main__":
-    file_path = "/usr/local/Cellar/solr/9.8.1/server/solr/sample_of_records.xml"
+    file_path = "./small_sample.xml"
     records = parse_marc_values(file_path)
     
     if records:
