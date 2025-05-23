@@ -1,50 +1,53 @@
 import xml.etree.ElementTree as ET
-from typing import List
+from typing import List, Dict
 import json
 from pathlib import Path
 
-def parse_marc_values(xml_file_path: str = "sample_of_records.xml") -> List[str]:
+def parse_marc_values(xml_file_path: str = "sample_of_records.xml") -> Dict[str, str]:
     """
-    Parse MARC XML records and join all values into a single string per record
-    
-    Args:
+    Parse MARC XML records and create a dictionary with 001 as key and concatenated values as value
+    Args: 
         xml_file_path: Path to the MARC XML file
     Returns:
-        List of strings containing concatenated values
+        Dictionary with 001 tag values as keys and concatenated field values as values
     """
     try:
         tree = ET.parse(xml_file_path)
         root = tree.getroot()
         
-        all_records = []
+        records_dict = {}
         
         for record in root.findall('record'):
             record_values = []
+            record_id = None
             
-            # Get datafield values for 2xx and 6xx ranges only
+            # Get the 001 control number
+            control_field = record.find("controlfield[@tag='001']")
+            if control_field is not None and control_field.text:
+                record_id = control_field.text.strip()
+            
+            # Get datafield values for 2xx and 6xx ranges
             for datafield in record.findall('datafield'):
                 tag = datafield.get('tag', '')
                 
-                # Extract values from title fields (2xx) and subject fields (6xx)
                 if tag.startswith('2') or tag.startswith('6'):
                     for subfield in datafield.findall('subfield'):
                         if subfield.text and subfield.text.strip():
                             record_values.append(subfield.text.strip())
             
-            if record_values:
-                # Join all values with a space separator
-                all_records.append(' '.join(record_values))
+            if record_id and record_values:
+                records_dict[record_id] = ' '.join(record_values)
             
-        return all_records
+        return records_dict
         
     except ET.ParseError as e:
         print(f"Error parsing XML file: {e}")
-        return []
+        return {}
     except FileNotFoundError:
         print(f"File not found: {xml_file_path}")
-        return []
+        return {}
 
-def save_values_to_file(records: List[str], 
+def save_values_to_file(records: Dict[str, str], 
                        output_file: str = "data/marc_values.txt"):
     """
     Save the parsed values to text and JSON files
@@ -53,11 +56,11 @@ def save_values_to_file(records: List[str],
     
     # Save text version
     with open(output_file, 'w', encoding='utf-8') as f:
-        for i, record in enumerate(records, 1):
-            f.write(f"Record {i}\n{'=' * 50}\n\n")
-            f.write(f"{record}\n\n")
+        for record_id, content in records.items():
+            f.write(f"Record ID: {record_id}\n{'=' * 50}\n\n")
+            f.write(f"{content}\n\n")
     
-    # Save JSON version - array of strings
+    # Save JSON version - object with 001 as keys
     json_file = output_file.replace('.txt', '.json')
     with open(json_file, 'w', encoding='utf-8') as jf:
         json.dump(records, jf, indent=2, ensure_ascii=False)
