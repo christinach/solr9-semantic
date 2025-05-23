@@ -133,11 +133,6 @@ Record ID: 99131317725106421
 
 Art and the industrial revolution / by Francis D. Klingender. London : Noel Carrington, 1947. Art, British. http://id.loc.gov/authorities/subjects/sh85007581 English literature 18th century History and criticism. http://id.loc.gov/authorities/subjects/sh2008102755 English literature 19th century History and criticism. http://id.loc.gov/authorities/subjects/sh2008102754 Industries in art. http://id.loc.gov/authorities/subjects/sh85065979 Industries in literature. http://id.loc.gov/authorities/subjects/sh85065980
 
-Record ID: 99131311831806421
-==================================================
-
-A short essay on the subject of Negro slavery, with a particular reference to the island of Barbadoes. By the Reverend H.E. Holder, of that place [electronic resource]. London : Printed by Couchman and Fry, for Charles Dilly, in the Poultry, MDCCLXXXVIII. [1788] Slavery West Indies, British Controversial literature.
-
 Record ID: 99131310858606421
 ==================================================
 
@@ -152,11 +147,6 @@ Record ID: 99131210559006421
 ==================================================
 
 Sylvia Beach and the lost generation Sylvia Beach : Eine Biographie im literarischen Paris 1920-1940 / Noel R. Fitch ; Aus dem Amerikanischen von Angelika Schleindl Insel. Nordlingen : Wagner, 1988. Beach, Sylvia. Booksellers and bookselling France Paris Biography. Paris (France) Intellectual life 20th century. Americans France Paris History 20th century. British France Paris History 20th century. Literature publishing France Paris History 20th century. Literary landmarks France Paris History 20th century. Joyce, James, 1882-1941. Beach Sylvia Biographie 1920-1940. Paris (France) Vie intellectuelle 20e siècle. Britanniques France Paris Histoire 20e siècle. Littérature Édition France Paris Histoire 20e siècle. Écrivains Résidences et lieux familiers France Paris Histoire 20e siècle. Beach, Sylvia fast (OCoLC)fst00044498 https://id.oclc.org/worldcat/entity/E39PBJgH7gjGjx7dpV8trt48YP Joyce, James, 1882-1941 fast (OCoLC)fst00035968 https://id.oclc.org/worldcat/entity/E39PBJcGrYrqpkRpQrMfc4bjmd Americans. fast (OCoLC)fst00807488 Booksellers and bookselling. fast (OCoLC)fst00836492 British. fast (OCoLC)fst00839044 Intellectual life. fast (OCoLC)fst00975769 Literary landmarks. fast (OCoLC)fst00999933 Literature publishing. fast (OCoLC)fst01000111 France Paris fast (OCoLC)fst01205283 https://id.oclc.org/worldcat/entity/E39QbtfRkKTXcHQJ477vgbjTxc Beach, Sylvia. swd 1900-1999 fast Biographies. fast (OCoLC)fst01919896 History. fast (OCoLC)fst01411628
-
-Record ID: 99131184557206421
-==================================================
-
-Pity the negro, or, An address to children on the subject of slavery. Address to children on the subject of slavery 7th ed. London : F. Westley and A.H. Davis, 1827. Slavery West Indies, British Juvenile literature. Slave trade Great Britain Juvenile literature. Slaves Emancipation Juvenile literature.
 
 Record ID: 99131184515206421
 ==================================================
@@ -197,4 +187,14 @@ Record ID: 99130261386006421
 ==================================================
 
 Finnegans Wakes : Tales of Translation / Patrick O'Neill. First edition. Toronto, Ontario : University of Toronto Press, [2022] ©2022 British literature. Joyce, James, 1882-1941 Translations History and criticism. Joyce, James, 1882-1941. Finnegans wake.
+
+Record ID: 99130261273806421
+==================================================
+
+The Savage and Modern Self : North American Indians in Eighteenth-Century British Literature and Culture / Robbie Richardson. Toronto : University of Toronto Press, [2019] ©2018 Indians in literature. English literature 18th century History and criticism. National characteristics, British, in literature.
+
+Record ID: 99129230916806421
+==================================================
+
+Literature and the Renaissance garden from Elizabeth I to Charles II : England's Paradise / Amy L. Tigner. 1st ed. Farnham, Surrey, U.K. ; Burlington, VT : Ashgate Pub., 2012. English literature Early modern, 1500-1700 History and criticism. Gardens, English, in literature. National characteristics, British, in literature. Renaissance Great Britain.
 
